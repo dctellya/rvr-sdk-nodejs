@@ -1,0 +1,17 @@
+# Specific files
+package-lock.json
+*.DS_Store
+
+# Specific file types
+*.d.ts
+*.js.map
+
+# Node Modules directory
+node_modules
+dist
+
+# JetBrains WebStorm directory
+.idea/*
+
+#misc
+npm-debug.log*
